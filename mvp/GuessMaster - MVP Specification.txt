@@ -1,0 +1,32 @@
+﻿GuessMaster - MVP Specification   
+Embark on a journey to uncover the hidden number
+
+
+ARCHITECTURE:
+  
+
+APIs
+DATA MODELLING:
+
+
+
+
+USER STORIES:
+
+
+1. As a Player, I want to start a new game session so that I can challenge myself to guess the correct number.
+
+
+2. As a Player, I want to receive feedback on my guesses so that I can adjust my next guess accordingly.
+
+
+3. As a Player, I want to see my progress during the game so that I can keep track of how many attempts I’ve made.
+
+
+4. As a Player, I want to know when I have won or lost the game so that I can conclude the session and decide whether to play again.
+
+
+5. As a Player, I want to be able to view my past game sessions so that I can track my performance over time.
+
+
+MOCKUPS
